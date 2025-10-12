@@ -6,7 +6,7 @@
 #             count.append(countd[i])
 # print(count)
 
-countd = [1,1,2,2,3,4,5,6,6]
+countd = [1,1,2,2,3,4,5,6,6,6]
 duplicate = []
 for i in range (len(countd)):
     count = countd.count(i)

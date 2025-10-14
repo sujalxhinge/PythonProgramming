@@ -1,6 +1,7 @@
 armstrongNum = 153
 number = armstrongNum
-n = len(str(armstrongNum))         # Number of digits in the number
+n = len(str(armstrongNum))
+# Number of digits in the number
 
 sum = 0                            # To store sum of each digit raised to n
 temp = number                      # Copy for calculation

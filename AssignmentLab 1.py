@@ -81,7 +81,7 @@ print(type("sujal"))
 print(type(True))
 
 #Question 3
-Str_1 = "Harshada"
+Str_1 = "Harshal"
 Str_2 = "Sarthak"
 print(Str_1[:2])
 print(Str_1[:])

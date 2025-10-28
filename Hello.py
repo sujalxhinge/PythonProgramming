@@ -1,6 +1,6 @@
 num = int(input("Enter a Number  "))
 if num == 0:
-    print("Number Is Zero")
+    print("Number Is Zero"-0)
 elif num > 0:
     print("Number is Positive")
 else :

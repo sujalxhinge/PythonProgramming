@@ -1,0 +1,12 @@
+li = [5,-3,12,0,-7,8]
+f_len = len(li)
+print(f_len)
+sum_of_li = sum(li)
+print(sum_of_li)
+max_li = max(li)
+print(max_li)
+min_li = min(li)
+print(min_li)
+sort_li = sorted(li)
+print(sort_li)
+print(li)

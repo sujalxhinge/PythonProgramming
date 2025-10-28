@@ -32,6 +32,3 @@ print("total average",average)
 
 
 
-
-
-
